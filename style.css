@@ -1,0 +1,22 @@
+.circle {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 1000px;
+	position: fixed;
+	top: 100px;
+	right: 0px;
+	font-weight: bold;
+	transition: all 1s ease-out;
+}
+span {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 1000px;
+	position: fixed;
+	top: 100px;
+	left: 0px;
+	font-weight: bold;
+	transition: all 1s ease-out;
+}
